@@ -17,6 +17,6 @@ Simple Calculus Tool With Python
 사용자의 입력에 대한 정적분을 구합니다.
 입력: 다항 함수
 
-### Get cordinate.py
+### Get coordinate.py
 사용자의 입력에 대한 xy좌표를 구합니다.
 입력: 속력에 대한 다항 함수, 좌표를 구하는 시간, 각도
